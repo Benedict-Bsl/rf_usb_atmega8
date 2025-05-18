@@ -1,0 +1,108 @@
+A!NET_NAME!REFDES!PIN_NUMBER!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!PIN_NET_SHORT!PIN_NO_SWAP_PIN!PIN_NO_PIN_ESCAPE!PIN_CDS_PINID!PIN_XNET_PINS!PIN_PIN_ESCAPE!PIN_PIN_SIGNAL_MODEL!PIN_NO_DRC!PIN_NO_SHAPE_CONNECT!
+J!E:/Users/migar/AppData/Roaming/SPB_Data/cdssetup/workspace/projects/project01/allegro/project01.brd!Sat May 17 14:24:57 2025!-391.3500!-238.9250!448.6500!355.0750!0.0001!millimeters!PROJECT01!10.400000 mil!2!OUT OF DATE!
+S!+JACK!C1!1!@project01.schematic1(sch_1):ins994@learnpcbdesignorcad.\cap cer 1uf 25v x7r 0805.normal\(chips)!CAP CER 1UF 25V X7R 0805_CAPC2012X140N_1 UF!!!F19!!!!!!!!!!
+S!GND!C1!2!@project01.schematic1(sch_1):ins994@learnpcbdesignorcad.\cap cer 1uf 25v x7r 0805.normal\(chips)!CAP CER 1UF 25V X7R 0805_CAPC2012X140N_1 UF!!!F19!!!!!!!!!!
+S!+5.0V!C2!1!@project01.schematic1(sch_1):ins1010@learnpcbdesignorcad.\cap cer 1uf 25v x7r 0805.normal\(chips)!CAP CER 1UF 25V X7R 0805_CAPC2012X140N_1 UF!!!F18!!!!!!!!!!
+S!GND!C2!2!@project01.schematic1(sch_1):ins1010@learnpcbdesignorcad.\cap cer 1uf 25v x7r 0805.normal\(chips)!CAP CER 1UF 25V X7R 0805_CAPC2012X140N_1 UF!!!F18!!!!!!!!!!
+S!N07639!C4!1!@project01.schematic1(sch_1):ins7577@learnpcbdesignorcad.\cap cer 1uf 25v x7r 0805.normal\(chips)!CAP CER 1UF 25V X7R 0805_CAPC2012X140N_1 UF!!!F17!!!!!!!!!!
+S!GND!C4!2!@project01.schematic1(sch_1):ins7577@learnpcbdesignorcad.\cap cer 1uf 25v x7r 0805.normal\(chips)!CAP CER 1UF 25V X7R 0805_CAPC2012X140N_1 UF!!!F17!!!!!!!!!!
+S!EXT_RESET!C3!1!@project01.schematic1(sch_1):ins7353@learnpcbdesignorcad.\cap cer 1uf 25v x7r 0805.normal\(chips)!CAP CER 1UF 25V X7R 0805_CAPC2012X140N_100NF!!!F16!!!!!!!!!!
+S!RST!C3!2!@project01.schematic1(sch_1):ins7353@learnpcbdesignorcad.\cap cer 1uf 25v x7r 0805.normal\(chips)!CAP CER 1UF 25V X7R 0805_CAPC2012X140N_100NF!!!F16!!!!!!!!!!
+S!+JACK!D1!1!@project01.schematic1(sch_1):ins1104@learnpcbdesignorcad.\diode 100v 300ma sod12.normal\(chips)!DIODE 100V 300MA SOD12_SOD123_DIODE!!!F15!!!!!!!!!!
+S!N03916!D1!2!@project01.schematic1(sch_1):ins1104@learnpcbdesignorcad.\diode 100v 300ma sod12.normal\(chips)!DIODE 100V 300MA SOD12_SOD123_DIODE!!!F15!!!!!!!!!!
+S!N13269!D2!2!@project01.schematic1(sch_1):ins1220@learnpcbdesignorcad.\led green 0805 smd.normal\(chips)!LED GREEN 0805 SMD_LED0805N_CML_LED GREEN!!!F14!!!!!!!!!!
+S!GND!D2!1!@project01.schematic1(sch_1):ins1220@learnpcbdesignorcad.\led green 0805 smd.normal\(chips)!LED GREEN 0805 SMD_LED0805N_CML_LED GREEN!!!F14!!!!!!!!!!
+S!N13303!D3!2!@project01.schematic1(sch_1):ins1240@learnpcbdesignorcad.\led green 0805 smd.normal\(chips)!LED GREEN 0805 SMD_LED0805N_CML_LED GREEN!!!F13!!!!!!!!!!
+S!GND!D3!1!@project01.schematic1(sch_1):ins1240@learnpcbdesignorcad.\led green 0805 smd.normal\(chips)!LED GREEN 0805 SMD_LED0805N_CML_LED GREEN!!!F13!!!!!!!!!!
+S!N03916!PWR_JACK!1!@project01.schematic1(sch_1):ins3238@learnpcbdesignorcad.\conn power jack 2.1mm id solder.normal\(chips)!CONN POWER JACK 2.1MM ID SOLDER_CUI_PJ-003A_PWR_JACK!!!F8!!!!!!!!!!
+S!GND!PWR_JACK!2!@project01.schematic1(sch_1):ins3238@learnpcbdesignorcad.\conn power jack 2.1mm id solder.normal\(chips)!CONN POWER JACK 2.1MM ID SOLDER_CUI_PJ-003A_PWR_JACK!!!F8!!!!!!!!!!
+S!GND!PWR_JACK!3!@project01.schematic1(sch_1):ins3238@learnpcbdesignorcad.\conn power jack 2.1mm id solder.normal\(chips)!CONN POWER JACK 2.1MM ID SOLDER_CUI_PJ-003A_PWR_JACK!!!F8!!!!!!!!!!
+S!+5.0V!J2!1!@project01.schematic1(sch_1):ins3180@learnpcbdesignorcad.\conn header vert 2pos 2.54mm.normal\(chips)!CONN HEADER VERT 2POS 2.54MM_BLKCON100VHTM1SQSW1002_CON2!!!F12!!!!!!!!!!
+S!GND!J2!2!@project01.schematic1(sch_1):ins3180@learnpcbdesignorcad.\conn header vert 2pos 2.54mm.normal\(chips)!CONN HEADER VERT 2POS 2.54MM_BLKCON100VHTM1SQSW1002_CON2!!!F12!!!!!!!!!!
+S!+JACK!J3!1!@project01.schematic1(sch_1):ins1035@learnpcbdesignorcad.\conn header vert 2pos 2.54mm.normal\(chips)!CONN HEADER VERT 2POS 2.54MM_BLKCON100VHTM1SQSW1002_CON2!!!F11!!!!!!!!!!
+S!GND!J3!2!@project01.schematic1(sch_1):ins1035@learnpcbdesignorcad.\conn header vert 2pos 2.54mm.normal\(chips)!CONN HEADER VERT 2POS 2.54MM_BLKCON100VHTM1SQSW1002_CON2!!!F11!!!!!!!!!!
+S!GND!J4!1!@project01.schematic1(sch_1):ins928@learnpcbdesignorcad.\conn header r/a 6pos 2.54mm.normal\(chips)!CONN HEADER R/A 6POS 2.54MM_BLKCON100VHTM1SQSW1006_CON6 R/A!!!F10!!!!!!!!!!
+S!!J4!2!@project01.schematic1(sch_1):ins928@learnpcbdesignorcad.\conn header r/a 6pos 2.54mm.normal\(chips)!CONN HEADER R/A 6POS 2.54MM_BLKCON100VHTM1SQSW1006_CON6 R/A!!!F10!!!!!!!!!!
+S!+5.0V!J4!3!@project01.schematic1(sch_1):ins928@learnpcbdesignorcad.\conn header r/a 6pos 2.54mm.normal\(chips)!CONN HEADER R/A 6POS 2.54MM_BLKCON100VHTM1SQSW1006_CON6 R/A!!!F10!!!!!!!!!!
+S!RX!J4!4!@project01.schematic1(sch_1):ins928@learnpcbdesignorcad.\conn header r/a 6pos 2.54mm.normal\(chips)!CONN HEADER R/A 6POS 2.54MM_BLKCON100VHTM1SQSW1006_CON6 R/A!!!F10!!!!!!!!!!
+S!TX!J4!5!@project01.schematic1(sch_1):ins928@learnpcbdesignorcad.\conn header r/a 6pos 2.54mm.normal\(chips)!CONN HEADER R/A 6POS 2.54MM_BLKCON100VHTM1SQSW1006_CON6 R/A!!!F10!!!!!!!!!!
+S!EXT_RESET!J4!6!@project01.schematic1(sch_1):ins928@learnpcbdesignorcad.\conn header r/a 6pos 2.54mm.normal\(chips)!CONN HEADER R/A 6POS 2.54MM_BLKCON100VHTM1SQSW1006_CON6 R/A!!!F10!!!!!!!!!!
+S!RST!RST-GND-RX-TX-D2-D3-D4!1!@project01.schematic1(sch_1):ins881@learnpcbdesignorcad.\conn header vert 9pos 2.54mm.normal\(chips)!CONN HEADER VERT 9POS 2.54MM_BLKCON100VHTM1SQSW1009_CON9 R/A!!!F4!!!!!!!!!!
+S!GND!RST-GND-RX-TX-D2-D3-D4!2!@project01.schematic1(sch_1):ins881@learnpcbdesignorcad.\conn header vert 9pos 2.54mm.normal\(chips)!CONN HEADER VERT 9POS 2.54MM_BLKCON100VHTM1SQSW1009_CON9 R/A!!!F4!!!!!!!!!!
+S!+5.0V!RST-GND-RX-TX-D2-D3-D4!3!@project01.schematic1(sch_1):ins881@learnpcbdesignorcad.\conn header vert 9pos 2.54mm.normal\(chips)!CONN HEADER VERT 9POS 2.54MM_BLKCON100VHTM1SQSW1009_CON9 R/A!!!F4!!!!!!!!!!
+S!RX!RST-GND-RX-TX-D2-D3-D4!4!@project01.schematic1(sch_1):ins881@learnpcbdesignorcad.\conn header vert 9pos 2.54mm.normal\(chips)!CONN HEADER VERT 9POS 2.54MM_BLKCON100VHTM1SQSW1009_CON9 R/A!!!F4!!!!!!!!!!
+S!TX!RST-GND-RX-TX-D2-D3-D4!5!@project01.schematic1(sch_1):ins881@learnpcbdesignorcad.\conn header vert 9pos 2.54mm.normal\(chips)!CONN HEADER VERT 9POS 2.54MM_BLKCON100VHTM1SQSW1009_CON9 R/A!!!F4!!!!!!!!!!
+S!D2!RST-GND-RX-TX-D2-D3-D4!6!@project01.schematic1(sch_1):ins881@learnpcbdesignorcad.\conn header vert 9pos 2.54mm.normal\(chips)!CONN HEADER VERT 9POS 2.54MM_BLKCON100VHTM1SQSW1009_CON9 R/A!!!F4!!!!!!!!!!
+S!D3!RST-GND-RX-TX-D2-D3-D4!7!@project01.schematic1(sch_1):ins881@learnpcbdesignorcad.\conn header vert 9pos 2.54mm.normal\(chips)!CONN HEADER VERT 9POS 2.54MM_BLKCON100VHTM1SQSW1009_CON9 R/A!!!F4!!!!!!!!!!
+S!D4!RST-GND-RX-TX-D2-D3-D4!8!@project01.schematic1(sch_1):ins881@learnpcbdesignorcad.\conn header vert 9pos 2.54mm.normal\(chips)!CONN HEADER VERT 9POS 2.54MM_BLKCON100VHTM1SQSW1009_CON9 R/A!!!F4!!!!!!!!!!
+S!+5.0V!RST-GND-RX-TX-D2-D3-D4!9!@project01.schematic1(sch_1):ins881@learnpcbdesignorcad.\conn header vert 9pos 2.54mm.normal\(chips)!CONN HEADER VERT 9POS 2.54MM_BLKCON100VHTM1SQSW1009_CON9 R/A!!!F4!!!!!!!!!!
+S!A7!AD/IO!1!@project01.schematic1(sch_1):ins814@learnpcbdesignorcad.\conn header vert 16pos 2.54mm.normal\(chips)!CONN HEADER VERT 16POS 2.54MM_BLKCON100VHTM1SQSW10016_CON16!!!F20!!!!!!!!!!
+S!AREF!AD/IO!10!@project01.schematic1(sch_1):ins814@learnpcbdesignorcad.\conn header vert 16pos 2.54mm.normal\(chips)!CONN HEADER VERT 16POS 2.54MM_BLKCON100VHTM1SQSW10016_CON16!!!F20!!!!!!!!!!
+S!GND!AD/IO!11!@project01.schematic1(sch_1):ins814@learnpcbdesignorcad.\conn header vert 16pos 2.54mm.normal\(chips)!CONN HEADER VERT 16POS 2.54MM_BLKCON100VHTM1SQSW10016_CON16!!!F20!!!!!!!!!!
+S!D13!AD/IO!12!@project01.schematic1(sch_1):ins814@learnpcbdesignorcad.\conn header vert 16pos 2.54mm.normal\(chips)!CONN HEADER VERT 16POS 2.54MM_BLKCON100VHTM1SQSW10016_CON16!!!F20!!!!!!!!!!
+S!D12!AD/IO!13!@project01.schematic1(sch_1):ins814@learnpcbdesignorcad.\conn header vert 16pos 2.54mm.normal\(chips)!CONN HEADER VERT 16POS 2.54MM_BLKCON100VHTM1SQSW10016_CON16!!!F20!!!!!!!!!!
+S!D11!AD/IO!14!@project01.schematic1(sch_1):ins814@learnpcbdesignorcad.\conn header vert 16pos 2.54mm.normal\(chips)!CONN HEADER VERT 16POS 2.54MM_BLKCON100VHTM1SQSW10016_CON16!!!F20!!!!!!!!!!
+S!D10!AD/IO!15!@project01.schematic1(sch_1):ins814@learnpcbdesignorcad.\conn header vert 16pos 2.54mm.normal\(chips)!CONN HEADER VERT 16POS 2.54MM_BLKCON100VHTM1SQSW10016_CON16!!!F20!!!!!!!!!!
+S!D9!AD/IO!16!@project01.schematic1(sch_1):ins814@learnpcbdesignorcad.\conn header vert 16pos 2.54mm.normal\(chips)!CONN HEADER VERT 16POS 2.54MM_BLKCON100VHTM1SQSW10016_CON16!!!F20!!!!!!!!!!
+S!A6!AD/IO!2!@project01.schematic1(sch_1):ins814@learnpcbdesignorcad.\conn header vert 16pos 2.54mm.normal\(chips)!CONN HEADER VERT 16POS 2.54MM_BLKCON100VHTM1SQSW10016_CON16!!!F20!!!!!!!!!!
+S!A5!AD/IO!3!@project01.schematic1(sch_1):ins814@learnpcbdesignorcad.\conn header vert 16pos 2.54mm.normal\(chips)!CONN HEADER VERT 16POS 2.54MM_BLKCON100VHTM1SQSW10016_CON16!!!F20!!!!!!!!!!
+S!A4!AD/IO!4!@project01.schematic1(sch_1):ins814@learnpcbdesignorcad.\conn header vert 16pos 2.54mm.normal\(chips)!CONN HEADER VERT 16POS 2.54MM_BLKCON100VHTM1SQSW10016_CON16!!!F20!!!!!!!!!!
+S!A3!AD/IO!5!@project01.schematic1(sch_1):ins814@learnpcbdesignorcad.\conn header vert 16pos 2.54mm.normal\(chips)!CONN HEADER VERT 16POS 2.54MM_BLKCON100VHTM1SQSW10016_CON16!!!F20!!!!!!!!!!
+S!A2!AD/IO!6!@project01.schematic1(sch_1):ins814@learnpcbdesignorcad.\conn header vert 16pos 2.54mm.normal\(chips)!CONN HEADER VERT 16POS 2.54MM_BLKCON100VHTM1SQSW10016_CON16!!!F20!!!!!!!!!!
+S!A1!AD/IO!7!@project01.schematic1(sch_1):ins814@learnpcbdesignorcad.\conn header vert 16pos 2.54mm.normal\(chips)!CONN HEADER VERT 16POS 2.54MM_BLKCON100VHTM1SQSW10016_CON16!!!F20!!!!!!!!!!
+S!A0!AD/IO!8!@project01.schematic1(sch_1):ins814@learnpcbdesignorcad.\conn header vert 16pos 2.54mm.normal\(chips)!CONN HEADER VERT 16POS 2.54MM_BLKCON100VHTM1SQSW10016_CON16!!!F20!!!!!!!!!!
+S!GND!AD/IO!9!@project01.schematic1(sch_1):ins814@learnpcbdesignorcad.\conn header vert 16pos 2.54mm.normal\(chips)!CONN HEADER VERT 16POS 2.54MM_BLKCON100VHTM1SQSW10016_CON16!!!F20!!!!!!!!!!
+S!N05830!J7!1!@project01.schematic1(sch_1):ins965@learnpcbdesignorcad.\conn header vert 4pos 2.54mm.normal\(chips)!CONN HEADER VERT 4POS 2.54MM_BLKCON100VHTM1SQSW1004_CON4 R/A!!!F9!!!!!!!!!!
+S!N05826!J7!2!@project01.schematic1(sch_1):ins965@learnpcbdesignorcad.\conn header vert 4pos 2.54mm.normal\(chips)!CONN HEADER VERT 4POS 2.54MM_BLKCON100VHTM1SQSW1004_CON4 R/A!!!F9!!!!!!!!!!
+S!N05822!J7!3!@project01.schematic1(sch_1):ins965@learnpcbdesignorcad.\conn header vert 4pos 2.54mm.normal\(chips)!CONN HEADER VERT 4POS 2.54MM_BLKCON100VHTM1SQSW1004_CON4 R/A!!!F9!!!!!!!!!!
+S!D8!J7!4!@project01.schematic1(sch_1):ins965@learnpcbdesignorcad.\conn header vert 4pos 2.54mm.normal\(chips)!CONN HEADER VERT 4POS 2.54MM_BLKCON100VHTM1SQSW1004_CON4 R/A!!!F9!!!!!!!!!!
+S!N13269!R1!1!@project01.schematic1(sch_1):ins59@learnpcbdesignorcad.\r 1k ohm 1% 1/8w 0603.normal\(chips)!R 1K OHM 1% 1/8W 0603_STA_RNCP0603_1K!!!F7!!!!!!!!!!
+S!+5.0V!R1!2!@project01.schematic1(sch_1):ins59@learnpcbdesignorcad.\r 1k ohm 1% 1/8w 0603.normal\(chips)!R 1K OHM 1% 1/8W 0603_STA_RNCP0603_1K!!!F7!!!!!!!!!!
+S!N13303!R2!1!@project01.schematic1(sch_1):ins3634@learnpcbdesignorcad.\r 1k ohm 1% 1/8w 0603.normal\(chips)!R 1K OHM 1% 1/8W 0603_STA_RNCP0603_1K!!!F6!!!!!!!!!!
+S!+5.0V!R2!2!@project01.schematic1(sch_1):ins3634@learnpcbdesignorcad.\r 1k ohm 1% 1/8w 0603.normal\(chips)!R 1K OHM 1% 1/8W 0603_STA_RNCP0603_1K!!!F6!!!!!!!!!!
+S!+5.0V!R3!1!@project01.schematic1(sch_1):ins34@learnpcbdesignorcad.\r 10k ohm 1% 1/8w 0603.normal\(chips)!R 10K OHM 1% 1/8W 0603_STA_RNCP0603_10K!!!F5!!!!!!!!!!
+S!RST!R3!2!@project01.schematic1(sch_1):ins34@learnpcbdesignorcad.\r 10k ohm 1% 1/8w 0603.normal\(chips)!R 10K OHM 1% 1/8W 0603_STA_RNCP0603_10K!!!F5!!!!!!!!!!
+S!RST!SW1!1!@project01.schematic1(sch_1):ins690@learnpcbdesignorcad.\switch tactile spst-no 0.05a 24.normal\(chips)!SWITCH TACTILE SPST-NO 0.05A 24_SW4_FSM-5P23_SWITCH SPST-NO!!!F3!!!!!!!!!!
+S!RST!SW1!2!@project01.schematic1(sch_1):ins690@learnpcbdesignorcad.\switch tactile spst-no 0.05a 24.normal\(chips)!SWITCH TACTILE SPST-NO 0.05A 24_SW4_FSM-5P23_SWITCH SPST-NO!!!F3!!!!!!!!!!
+S!GND!SW1!3!@project01.schematic1(sch_1):ins690@learnpcbdesignorcad.\switch tactile spst-no 0.05a 24.normal\(chips)!SWITCH TACTILE SPST-NO 0.05A 24_SW4_FSM-5P23_SWITCH SPST-NO!!!F3!!!!!!!!!!
+S!GND!SW1!4!@project01.schematic1(sch_1):ins690@learnpcbdesignorcad.\switch tactile spst-no 0.05a 24.normal\(chips)!SWITCH TACTILE SPST-NO 0.05A 24_SW4_FSM-5P23_SWITCH SPST-NO!!!F3!!!!!!!!!!
+S!!U1!4!@project01.schematic1(sch_1):ins1295@learnpcbdesignorcad.\ic reg linear 5v 300ma sot23-5.normal\(chips)!IC REG LINEAR 5V 300MA SOT23-5_SOT-23-5_MC_LDO!!!F2!!!!!!!!!!
+S!+JACK!U1!1!@project01.schematic1(sch_1):ins1295@learnpcbdesignorcad.\ic reg linear 5v 300ma sot23-5.normal\(chips)!IC REG LINEAR 5V 300MA SOT23-5_SOT-23-5_MC_LDO!!!F2!!!!!!!!!!
+S!+5.0V!U1!5!@project01.schematic1(sch_1):ins1295@learnpcbdesignorcad.\ic reg linear 5v 300ma sot23-5.normal\(chips)!IC REG LINEAR 5V 300MA SOT23-5_SOT-23-5_MC_LDO!!!F2!!!!!!!!!!
+S!GND!U1!2!@project01.schematic1(sch_1):ins1295@learnpcbdesignorcad.\ic reg linear 5v 300ma sot23-5.normal\(chips)!IC REG LINEAR 5V 300MA SOT23-5_SOT-23-5_MC_LDO!!!F2!!!!!!!!!!
+S!+JACK!U1!3!@project01.schematic1(sch_1):ins1295@learnpcbdesignorcad.\ic reg linear 5v 300ma sot23-5.normal\(chips)!IC REG LINEAR 5V 300MA SOT23-5_SOT-23-5_MC_LDO!!!F2!!!!!!!!!!
+S!A6!U2!19!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!A7!U2!22!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!AREF!U2!20!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!+5.0V!U2!18!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!GND!U2!21!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!GND!U2!3!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!GND!U2!5!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!D8!U2!12!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!D9!U2!13!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!D10!U2!14!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!D11!U2!15!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!D12!U2!16!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!D13!U2!17!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!XTAL1_OUT!U2!7!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!XTAL2_IN!U2!8!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!A0!U2!23!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!A1!U2!24!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!A2!U2!25!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!A3!U2!26!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!A4!U2!27!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!A5!U2!28!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!RST!U2!29!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!RX!U2!30!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!TX!U2!31!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!D2!U2!32!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!D3!U2!1!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!D4!U2!2!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!N05830!U2!9!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!N05826!U2!10!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!N05822!U2!11!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!N07639!U2!4!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!N07639!U2!6!@project01.schematic1(sch_1):ins333@learnpcbdesignorcad.\ic mcu 8bit 32kb flash 32tqfp.normal\(chips)!IC MCU 8BIT 32KB FLASH 32TQFP_MA_IC MCU 32KB!!!F1!!!!!!!!!!
+S!GND!Y1!2!@project01.schematic1(sch_1):ins733@learnpcbdesignorcad.\resonator 16.0mhz 22pf smd.normal\(chips)!RESONATOR 16.0MHZ 22PF SMD_3-SMD_16.00 MHZ!!!F0!!!!!!!!!!
+S!XTAL2_IN!Y1!1!@project01.schematic1(sch_1):ins733@learnpcbdesignorcad.\resonator 16.0mhz 22pf smd.normal\(chips)!RESONATOR 16.0MHZ 22PF SMD_3-SMD_16.00 MHZ!!!F0!!!!!!!!!!
+S!XTAL1_OUT!Y1!3!@project01.schematic1(sch_1):ins733@learnpcbdesignorcad.\resonator 16.0mhz 22pf smd.normal\(chips)!RESONATOR 16.0MHZ 22PF SMD_3-SMD_16.00 MHZ!!!F0!!!!!!!!!!

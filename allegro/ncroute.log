@@ -1,0 +1,159 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC ROUTE Log                                                     )
+(                                                                     )
+(    Drawing          : project01_2Doctoreda.brd                      )
+(    Software Version : 24.1S004                                      )
+(    Date/Time        : Sat May 17 17:35:12 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (mm)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		METRIC
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		NO
+ SUPPRESS-LEAD-ZEROES	YES
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		YES
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	YES
+ ENHANCED_EXCELLON	YES
+ SCALE			1.000000
+
+
+ WARNING(SPMHMF-326): Cannot find NC Route bit tool file 'ncroutebits.txt'
+ WARNING(SPMHMF-327): ... will auto-generate bit tool file 'ncroutebits_auto.txt'.
+
+ Auto-generating tool file 'ncroutebits_auto.txt' ...
+
+     0.0001  T01       
+     0.0010  T02       
+
+-------------------------------------------------------------
+
+ Pre_processing route path data ...
+
+ WARNING(SPMHMF-301): No start point indicators found on the board.
+ WARNING(SPMHMF-302): Start and end points for route paths will be selected at random.
+
+-------------------------------------------------------------
+
+ Processing route path data ... TOP to BOTTOM 
+
+ WARNING(SPMHMF-307): Start point indicator for route at (64.750000 10.650000) not found.
+ WARNING(SPMHMF-308): Start point chosen at random.
+
+ WARNING(SPMHMF-307): Start point indicator for route at (63.750000 9.350000) not found.
+ WARNING(SPMHMF-308): Start point chosen at random.
+
+ WARNING(SPMHMF-307): Start point indicator for route at (64.250000 8.850000) not found.
+ WARNING(SPMHMF-308): Start point chosen at random.
+
+ WARNING(SPMHMF-307): Start point indicator for route at (63.750000 9.350000) not found.
+ WARNING(SPMHMF-308): Start point chosen at random.
+
+ WARNING(SPMHMF-307): Start point indicator for route at (64.750000 10.650000) not found.
+ WARNING(SPMHMF-308): Start point chosen at random.
+
+ WARNING(SPMHMF-307): Start point indicator for route at (64.250000 11.150000) not found.
+ WARNING(SPMHMF-308): Start point chosen at random.
+
+ WARNING(SPMHMF-307): Start point indicator for route at (63.600000 14.500000) not found.
+ WARNING(SPMHMF-308): Start point chosen at random.
+
+ WARNING(SPMHMF-307): Start point indicator for route at (64.900000 13.500000) not found.
+ WARNING(SPMHMF-308): Start point chosen at random.
+
+ WARNING(SPMHMF-307): Start point indicator for route at (65.400000 14.000000) not found.
+ WARNING(SPMHMF-308): Start point chosen at random.
+
+ WARNING(SPMHMF-307): Start point indicator for route at (64.900000 13.500000) not found.
+ WARNING(SPMHMF-308): Start point chosen at random.
+
+ WARNING(SPMHMF-307): Start point indicator for route at (63.600000 14.500000) not found.
+ WARNING(SPMHMF-308): Start point chosen at random.
+
+ WARNING(SPMHMF-307): Start point indicator for route at (63.100000 14.000000) not found.
+ WARNING(SPMHMF-308): Start point chosen at random.
+
+ WARNING(SPMHMF-307): Start point indicator for route at (65.200000 17.500000) not found.
+ WARNING(SPMHMF-308): Start point chosen at random.
+
+ WARNING(SPMHMF-307): Start point indicator for route at (66.500000 16.500000) not found.
+ WARNING(SPMHMF-308): Start point chosen at random.
+
+ WARNING(SPMHMF-307): Start point indicator for route at (67.000000 17.000000) not found.
+ WARNING(SPMHMF-308): Start point chosen at random.
+
+ WARNING(SPMHMF-307): Start point indicator for route at (66.500000 16.500000) not found.
+ WARNING(SPMHMF-308): Start point chosen at random.
+
+ WARNING(SPMHMF-307): Start point indicator for route at (65.200000 17.500000) not found.
+ WARNING(SPMHMF-308): Start point chosen at random.
+
+ WARNING(SPMHMF-307): Start point indicator for route at (64.700000 17.000000) not found.
+ WARNING(SPMHMF-308): Start point chosen at random.
+
+ WARNING(SPMHMF-307): Start point indicator for route at (75.650000 7.000000) not found.
+ WARNING(SPMHMF-308): Start point chosen at random.
+
+ WARNING(SPMHMF-307): Start point indicator for route at (72.900000 9.700000) not found.
+ WARNING(SPMHMF-308): Start point chosen at random.
+
+ WARNING(SPMHMF-307): Start point indicator for route at (72.900000 19.000000) not found.
+ WARNING(SPMHMF-308): Start point chosen at random.
+
+ WARNING(SPMHMF-307): Start point indicator for route at (72.050000 8.850000) not found.
+ WARNING(SPMHMF-308): Start point chosen at random.
+
+ WARNING(SPMHMF-307): Start point indicator for route at (72.900000 9.700000) not found.
+ WARNING(SPMHMF-308): Start point chosen at random.
+
+ WARNING(SPMHMF-307): Start point indicator for route at (72.050000 18.150000) not found.
+ WARNING(SPMHMF-308): Start point chosen at random.
+
+ WARNING(SPMHMF-307): Start point indicator for route at (72.900000 19.000000) not found.
+ WARNING(SPMHMF-308): Start point chosen at random.
+
+ EXPLANATION OF 'START POINT INDICATORS' ...
+
+ The direction in which a route path is cut can be
+ controlled by adding the character '1' at (or near)
+ the vertex that you want to be the start point of the cut.
+ This character (referred to as a 'start point indicator')
+ is added by using the ADD TEXT command.
+
+ In the case of a complete loop, direction can be specified
+ by adding the character '1' at the first point on the path
+ and the character '2' at the second point along the path.
+
+
+-------------------------------------------------------------
+
+ Processing slot hole data ... TOP to BOTTOM 
+
+ WARNING(SPMHMF-322): No slot holes were found for processing.
+
+-------------------------------------------------------------
+
+ NC Route file 'project01_2Doctoreda_1-2.rou' created ...
+
+-------------------------------------------------------------
+
+ Program completed WITH WARNINGS.
+

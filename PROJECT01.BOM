@@ -1,0 +1,29 @@
+  Revised: Thursday, May 15, 2025
+          Revision: ?
+
+
+
+
+
+
+
+Bill Of Materials            May 15,2025      9:55:19	Page1
+
+Item	Quantity	Reference	Digi-Key Part Number
+______________________________________________
+
+1	4	C1,C2,C3,C4	1276-1066-1-ND
+2	1	D1	1N4148W-FDICT-ND
+3	2	D2,D3	L62505CT-ND
+4	1	J1	CP-003A-ND
+5	2	J2,J3	S1012EC-02-ND
+6	1	J4	732-5339-ND
+7	1	J5	S1012EC-09-ND
+8	1	J6	S1012EC-16-ND
+9	1	J7	S1012EC-04-ND
+10	2	R1,R2	RNCP0603FTD1K00CT-ND
+11	1	R3	RNCP0603FTD10K0CT-ND
+12	1	SW1	450-2055-2-ND
+13	1	U1	MCP1802T-5002I/OTCT-ND
+14	1	U2	ATMEGA328P-15AZTR-ND
+15	1	Y1	535-9362-1-ND

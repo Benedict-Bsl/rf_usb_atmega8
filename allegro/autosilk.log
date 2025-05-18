@@ -1,0 +1,38 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto Silkscreen Log File                                         )
+(                                                                     )
+(    Drawing          : project01_2Doctoreda.brd                      )
+(    Software Version : 24.1S004                                      )
+(    Date/Time        : Sat May 17 17:28:29 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Generating Auto Silkscreen for the top of the board.
+
+Copying all elements.
+
+Element to Pad clearance is 0.0000
+Max Text displacement is 2.5400
+Min Line Length is 0.0000
+Allowing 0 degree text rotation.
+Text Allowed Under Components.
+Subclass Selections:
+ Board Geometry       : Silkscreen
+ Component Value      : None
+ Device Type          : None
+ Package Geometry     : Silkscreen
+ Reference Designator : Silkscreen
+ Tolerance            : None
+ User Part Number     : None
+
+Text string '4' is not at a suitable location
+(location: 55.3069, 0.7228)
+Text string '9' is not at a suitable location
+(location: 28.7569, 0.7228)
+
+Total Failures: 2
+
+Log End
+

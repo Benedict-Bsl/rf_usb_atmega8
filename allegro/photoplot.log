@@ -1,0 +1,324 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : project01_2Doctoreda.brd                      )
+(    Software Version : 24.1S004                                      )
+(    Date/Time        : Sat May 17 17:30:27 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < E:/Users/migar/AppData/Roaming/SPB_Data/cdssetup/workspace/projects/project01/allegro/artwork/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2100
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.38100                                  DARK 
+  CIRCLE     0.60960                                  DARK 
+  CIRCLE     1.57480                                  DARK 
+  SQUARE     1.57480                     0.000 NO     DARK 
+  RECTANGLE  0.50090     x 1.46130       0.000 NO     DARK 
+  RECTANGLE  0.50090     x 1.46130      90.000 NO     DARK 
+  RECTANGLE  0.71120     x 1.24460       0.000 NO     DARK 
+  RECTANGLE  0.96520     x 0.88900       0.000 NO     DARK 
+  RECTANGLE  1.11120     x 0.60070       0.000 NO     DARK 
+  RECTANGLE  1.15010     x 1.45010       0.000 NO     DARK 
+  RECTANGLE  1.32080     x 0.55880      90.000 NO     DARK 
+  RECTANGLE  2.10820     x 1.39700      90.000 NO     DARK 
+  RECTANGLE  5.10010     x 0.80010       0.000 NO     DARK 
+  OBLONG     3.01600     x 1.50800       0.000 NO     DARK 
+  OBLONG     3.01600     x 1.50800      90.000 NO     DARK 
+
+     TOP created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < E:/Users/migar/AppData/Roaming/SPB_Data/cdssetup/workspace/projects/project01/allegro/artwork/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2100
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.38100                                  DARK 
+  CIRCLE     0.60960                                  DARK 
+  CIRCLE     1.57480                                  DARK 
+  SQUARE     1.57480                     0.000 NO     DARK 
+  OBLONG     3.01600     x 1.50800       0.000 NO     DARK 
+  OBLONG     3.01600     x 1.50800      90.000 NO     DARK 
+
+     BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < fab >
+     TO FILE < E:/Users/migar/AppData/Roaming/SPB_Data/cdssetup/workspace/projects/project01/allegro/artwork/fab.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2100
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (-1.0250 -35.0750)
+           ... using undefined line width of 0.2100
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.2100
+
+    WARNING: text composed 0 width line found at (41.4620 -120.7870)
+           ... using undefined line width of 0.2100
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.2100
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00530                                  DARK 
+  CIRCLE     0.21000                                  DARK 
+
+     fab created with warnings
+
+
+================================================================
+     PROCESSING FILM < bot_mask >
+     TO FILE < E:/Users/migar/AppData/Roaming/SPB_Data/cdssetup/workspace/projects/project01/allegro/artwork/bot_mask.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2100
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.11760                                  DARK 
+  CIRCLE     1.57480                                  DARK 
+  SQUARE     1.57480                     0.000 NO     DARK 
+  OBLONG     3.01600     x 1.50800       0.000 NO     DARK 
+  OBLONG     3.01600     x 1.50800      90.000 NO     DARK 
+
+     bot_mask created.
+
+
+================================================================
+     PROCESSING FILM < top_assembly >
+     TO FILE < E:/Users/migar/AppData/Roaming/SPB_Data/cdssetup/workspace/projects/project01/allegro/artwork/top_assembly.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2100
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.20320                                  DARK 
+  CIRCLE     0.21000                                  DARK 
+
+     top_assembly created.
+
+
+================================================================
+     PROCESSING FILM < top_mask >
+     TO FILE < E:/Users/migar/AppData/Roaming/SPB_Data/cdssetup/workspace/projects/project01/allegro/artwork/top_mask.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2100
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.11760                                  DARK 
+  CIRCLE     1.57480                                  DARK 
+  SQUARE     1.57480                     0.000 NO     DARK 
+  RECTANGLE  0.50090     x 1.46130       0.000 NO     DARK 
+  RECTANGLE  0.50090     x 1.46130      90.000 NO     DARK 
+  RECTANGLE  0.71120     x 1.24460       0.000 NO     DARK 
+  RECTANGLE  0.96520     x 0.88900       0.000 NO     DARK 
+  RECTANGLE  1.11120     x 0.60070       0.000 NO     DARK 
+  RECTANGLE  1.15010     x 1.45010       0.000 NO     DARK 
+  RECTANGLE  1.32080     x 0.55880      90.000 NO     DARK 
+  RECTANGLE  2.10820     x 1.39700      90.000 NO     DARK 
+  RECTANGLE  5.24990     x 0.95000       0.000 NO     DARK 
+  OBLONG     3.01600     x 1.50800       0.000 NO     DARK 
+  OBLONG     3.01600     x 1.50800      90.000 NO     DARK 
+
+     top_mask created.
+
+
+================================================================
+     PROCESSING FILM < top_paste >
+     TO FILE < E:/Users/migar/AppData/Roaming/SPB_Data/cdssetup/workspace/projects/project01/allegro/artwork/top_paste.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2100
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  RECTANGLE  0.50090     x 1.46130       0.000 NO     DARK 
+  RECTANGLE  0.50090     x 1.46130      90.000 NO     DARK 
+  RECTANGLE  0.71120     x 1.24460       0.000 NO     DARK 
+  RECTANGLE  0.96520     x 0.88900       0.000 NO     DARK 
+  RECTANGLE  1.11120     x 0.60070       0.000 NO     DARK 
+  RECTANGLE  1.15010     x 1.45010       0.000 NO     DARK 
+  RECTANGLE  1.32080     x 0.55880      90.000 NO     DARK 
+  RECTANGLE  2.10820     x 1.39700      90.000 NO     DARK 
+  RECTANGLE  5.10010     x 0.80010       0.000 NO     DARK 
+
+     top_paste created.
+
+
+================================================================
+     PROCESSING FILM < top_slik >
+     TO FILE < E:/Users/migar/AppData/Roaming/SPB_Data/cdssetup/workspace/projects/project01/allegro/artwork/top_slik.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2100
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.20320                                  DARK 
+  CIRCLE     0.21000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+
+     top_slik created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created.
+        BOTTOM created.
+        fab created with warnings
+        bot_mask created.
+        top_assembly created.
+        top_mask created.
+        top_paste created.
+        top_slik created.
+
+ ARTWORK had warnings

@@ -1,0 +1,106 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : project01.brd                                 )
+(    Software Version : 24.1S004                                      )
+(    Date/Time        : Sat May 17 17:04:36 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ERROR: in ODD-ANGLE LINE SEGMENT (2.9256 6.6250) - (1.7761 5.4755)
+  class = ETCH
+  subclass = TOP 
+  POINTER TO ODD-ANGLE LINE SEGMENT INVALID
+
+ERROR: in HORIZONTAL LINE SEGMENT (4.7500 6.6250) - (2.9256 6.6250)
+  class = ETCH
+  subclass = TOP 
+  POINTER TO HORIZONTAL LINE SEGMENT INVALID
+
+ERROR: in CONNECT LINE (6.7648 6.7034) - (4.8284 6.7034)
+  class = ETCH
+  subclass = TOP 
+  POINTER TO CONNECT LINE INVALID
+
+ERROR: in ODD-ANGLE LINE SEGMENT (4.8284 6.7034) - (4.7500 6.6250)
+  class = ETCH
+  subclass = TOP 
+  POINTER TO ODD-ANGLE LINE SEGMENT INVALID
+
+ERROR: in HORIZONTAL LINE SEGMENT (6.7648 6.7034) - (4.8284 6.7034)
+  class = ETCH
+  subclass = TOP 
+  POINTER TO HORIZONTAL LINE SEGMENT INVALID
+
+ERROR: in NET net name = RST
+  WARNING(SPMHDB-43): Ratsnest lines are out of date.
+
+ERROR: in RATSNEST net name = RST
+  POINTER TO RATSNEST INVALID
+
+ERROR: in RATSNEST net name = RST
+  POINTER TO RATSNEST INVALID
+
+ERROR: in RATSNEST net name = RST
+  POINTER TO RATSNEST INVALID
+
+ERROR: in RATSNEST net name = RST
+  POINTER TO RATSNEST INVALID
+
+ERROR: in RATSNEST net name = RST
+  POINTER TO RATSNEST INVALID
+
+ERROR: in ATTRIBUTE 
+  POINTER TO ATTRIBUTE INVALID
+
+ERROR: in CONNECT LINE (4.8284 6.7034) - (4.7500 6.6250)
+  class = ETCH
+  subclass = TOP 
+  POINTER TO CONNECT LINE INVALID
+
+ERROR: in CONNECT LINE (4.7500 6.6250) - (2.9256 6.6250)
+  class = ETCH
+  subclass = TOP 
+  POINTER TO CONNECT LINE INVALID
+
+ERROR: in BRANCH 
+  POINTER TO BRANCH INVALID
+
+ERROR: in DRC ERROR origin = (4.7500 6.6250)
+  class = DRC ERROR CLASS
+  subclass = TOP 
+  POINTER TO DRC ERROR INVALID
+
+ERROR: in CONNECT LINE (2.9256 6.6250) - (1.7761 5.4755)
+  class = ETCH
+  subclass = TOP 
+  POINTER TO CONNECT LINE INVALID
+
+ERROR: in BRANCH 
+  POINTER TO BRANCH INVALID
+
+ERROR: in DRC ERROR origin = (2.9256 6.6250)
+  class = DRC ERROR CLASS
+  subclass = TOP 
+  POINTER TO DRC ERROR INVALID
+
+ERROR: in CONNECT LINE (no segment)
+  class = ETCH
+  subclass = TOP 
+  POINTER TO CONNECT LINE INVALID
+
+ERROR: in BRANCH 
+  POINTER TO BRANCH INVALID
+
+ERROR: in DRC ERROR origin = (1.7761 5.4755)
+  class = DRC ERROR CLASS
+  subclass = TOP 
+  POINTER TO DRC ERROR INVALID
+
+ERROR: in BRANCH net name = RST
+  POINTER TO BRANCH INVALID
+
+0 warnings, 23 errors detected, 1 errors could be fixed.
